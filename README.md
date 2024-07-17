@@ -54,12 +54,9 @@ Data visualization is a powerful skill for interpreting and communicating data i
   - "Python Data Science Handbook" by Jake VanderPlas
   - "Data Visualization with Python and JavaScript" by Kyran Dale
 
-- **Online Courses**
-  - Coursera: "Data Visualization with Python" by IBM
-
 - **Websites and Blogs**
   - [Towards Data Science](https://towardsdatascience.com/)
   - [DataCamp Community](https://www.datacamp.com/community)
 
-- **Bootcamp**
+- **Internship**
   - Anudip Foundation: Data Visualization Bootcamp - DAVIS-1
