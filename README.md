@@ -59,4 +59,4 @@ Data visualization is a powerful skill for interpreting and communicating data i
   - [DataCamp Community](https://www.datacamp.com/community)
 
 - **Internship**
-  - Anudip Foundation: Data Visualization Bootcamp - DAVIS-1
+  - Anudip Foundation: Data Visualization - DAVIS-1
