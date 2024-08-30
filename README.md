@@ -1,5 +1,5 @@
 # Learning Data Visualization
-## Author : Harsh Choudhary
+## Author : Harsh Choudhary and Ayush Khare
 ## Overview
 
 This repository documents my journey of learning data visualization, excluding the use of Tableau. It includes a variety of examples and resources that I have used to understand and master data visualization techniques using different tools and libraries.
